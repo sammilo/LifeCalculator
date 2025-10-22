@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Life Calculator</string>
+    <string name="buttonText">Calculate</string>
+    <string name="titleText">How many weeks do you have left to live?*</string>
+    <string name="disclaimerText">*based on the average human lifespan</string>
+    <string name="hintText">Enter age in years</string>
+    <string name="creditText">\@hby on Pixilart</string>
+    <string name="weeksText">4000</string>
+</resources>
